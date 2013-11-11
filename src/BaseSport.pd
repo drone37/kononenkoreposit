@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><datamodel datamodelDbId="null">
+  <fieldsEntity entityHeight="119" entityIconified="false" entityId="138297549276783" entityLocationX="17" entityLocationY="32" entityWidth="134" tableName="Клуб"/>
+  <fieldsEntity entityHeight="121" entityIconified="false" entityId="138297807615159" entityLocationX="559" entityLocationY="165" entityWidth="150" tableName="Стадион"/>
+  <fieldsEntity entityHeight="136" entityIconified="false" entityId="138297649858418" entityLocationX="402" entityLocationY="13" entityWidth="150" tableName="Спортсмен"/>
+  <fieldsEntity entityHeight="151" entityIconified="false" entityId="138297748367050" entityLocationX="518" entityLocationY="474" entityWidth="150" tableName="Тренер"/>
+  <fieldsEntity entityHeight="142" entityIconified="false" entityId="138297614734091" entityLocationX="162" entityLocationY="143" entityWidth="159" tableName="Команда"/>
+  <fieldsEntity entityHeight="155" entityIconified="false" entityId="138297849794662" entityLocationX="273" entityLocationY="469" entityWidth="150" tableName="Турнир"/>
+</datamodel>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><context>
+  <run/>
+  <dbSettings name="" password="1212" url="jdbc:h2:tcp://localhost:9092/BaseSport" user="1212"/>
+</context>
