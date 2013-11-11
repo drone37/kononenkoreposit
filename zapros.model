@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><datamodel>
+  <parametersEntity entityHeight="28" entityIconified="true" entityLocationX="759" entityLocationY="-29" entityWidth="150"/>
+  <entity Title="КЛУБ" entityHeight="200" entityIconified="false" entityId="138298157143076" entityLocationX="10" entityLocationY="20" entityWidth="150" tableAlias="t1" tableName="КЛУБ" tableSchemaName=""/>
+</datamodel>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><datamodel>
+  <parametersEntity entityHeight="28" entityIconified="false" entityLocationX="8" entityLocationY="9" entityWidth="150"/>
+  <entity Name="ТРУНИР КОМАНДЫ" Title="ТРУНИР КОМАНДЫ" entityHeight="83" entityIconified="false" entityId="138298087118738" entityLocationX="59" entityLocationY="214" entityWidth="150" tableName="ТРУНИР КОМАНДЫ" tableSchemaName=""/>
+  <entity Name="ТУРНИР" Title="ТУРНИР" entityHeight="152" entityIconified="false" entityId="138298087885349" entityLocationX="99" entityLocationY="304" entityWidth="150" tableName="ТУРНИР" tableSchemaName=""/>
+  <entity Name="КОМАНДА" Title="КОМАНДА" entityHeight="133" entityIconified="false" entityId="138298082644437" entityLocationX="287" entityLocationY="44" entityWidth="150" tableName="КОМАНДА" tableSchemaName=""/>
+  <entity Name="КЛУБ" Title="КЛУБ" entityHeight="116" entityIconified="false" entityId="138298076016776" entityLocationX="52" entityLocationY="77" entityWidth="150" tableName="КЛУБ" tableSchemaName=""/>
+  <entity Name="СТАДИОН" Title="СТАДИОН" entityHeight="124" entityIconified="false" entityId="138298085083154" entityLocationX="490" entityLocationY="178" entityWidth="150" tableName="СТАДИОН" tableSchemaName=""/>
+  <entity Name="СПОРТСМЕН" Title="СПОРТСМЕН" entityHeight="142" entityIconified="false" entityId="138298083404411" entityLocationX="495" entityLocationY="12" entityWidth="150" tableName="СПОРТСМЕН" tableSchemaName=""/>
+  <entity Name="ТРЕНЕР" Title="ТРЕНЕР" entityHeight="150" entityIconified="false" entityId="138298086286212" entityLocationX="303" entityLocationY="199" entityWidth="150" tableName="ТРЕНЕР" tableSchemaName=""/>
+</datamodel>
